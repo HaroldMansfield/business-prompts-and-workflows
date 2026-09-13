@@ -42,4 +42,4 @@ This catalog is free to use, copy, adapt, and share. See [LICENSE](LICENSE) for 
 
 ## Important note
 
-These resources are educational and operational starting points. Review all outputs before using them in your business, especially legal, financial, employment, privacy, compliance, or regulated-industry materials.
+These resources are educational and operational starting points. It's best to review all outputs with a licensed professional before using them in your business, especially legal, financial, employment, privacy, compliance, or regulated-industry materials.
